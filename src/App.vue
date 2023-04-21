@@ -5,7 +5,7 @@
         <div class="tilt-div" ref="div">
           <div class="back"></div>
           <div class="front">
-            <img src="https://via.placeholder.com/250x150" alt="placeholder" />
+            <img src="https://picsum.photos/250/150?random=1" alt="placeholder" />
           </div>
           <div class="overlay"></div>
         </div>
